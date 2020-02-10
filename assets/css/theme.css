@@ -1,0 +1,91 @@
+.footer_info{
+    padding: 0 !important;
+    color: #fff !important;
+}
+.list-items-time li, .list-info-footer li a{
+    color: #fff !important;
+    
+}
+.list-info-footer li {
+list-style: none;
+
+}
+
+.list-info-footer li a{
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 12px !important;
+}
+
+.list-info-footer li a:hover{
+    color: #F2CD5C !important;
+}
+
+.list-info-footer li i{
+    color: #F2CD5C !important;
+}
+.top ul{
+    padding: 0 !important;
+
+}
+footer .container{
+    color: #fff !important;
+}
+
+.footer-title{
+    font-family: medusa;
+}
+.box-member.our-team-2 .member-type1 {
+    width: 25% !important;
+}
+.box-member .member-type1 {
+    width: 25% !important;
+}
+.member-info {
+    background-repeat: no-repeat !important;
+}
+.member-name>h5{
+    font-family: medusa !important;
+    font-size: 14px;
+}
+.footer-social ul li a>i{
+    font-size: 30px !important;
+    margin: 10px;
+}
+.socialfooter{
+    color: white !important;
+}
+.socialfooter:hover{
+    color: #F2CD5C !important;
+}
+
+.footer_info, footer ul li{
+    font-size: 12px !important;
+}
+.footer-title{
+    font-size: 16px !important;
+}
+
+.footer-title2 {
+    letter-spacing: -0.01em;
+    font-size: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 0px 0 33px;
+    font-family: medusa;
+}
+
+.widget_nav_menu ul li a {
+    color: white;
+    font-family: medusa !important;
+    text-transform: uppercase;
+    font-size: 12px !important;
+    line-height: 30px !important;
+
+}
+@media (max-width: 991px){
+.box-member.our-team-2 .member-type1 {
+    width: 50% !important;
+}
+.box-member .member-type1 {
+    width: 50% !important;
+}}
